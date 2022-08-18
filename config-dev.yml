@@ -1,1 +1,2 @@
-this is cnfig-dev.yml
+config:
+  info: this is cnfig-dev.yml
